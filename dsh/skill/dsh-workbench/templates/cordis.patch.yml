@@ -1,0 +1,5 @@
+# 插一行，同时挂起宿主空壳与浏览器半边的页面/入口。
+- insert:
+    - id: my-workbench
+      name: 'my-workbench'
+      config: {}

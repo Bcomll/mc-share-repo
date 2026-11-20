@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "My workbench",
+    "description": "A DSH main-panel workbench with a toolbox, an AI chat, quick links, and a todo list. Currently a placeholder skeleton where only section switching works.",
+    "detail": "docs/DETAIL.md"
+  }
+}

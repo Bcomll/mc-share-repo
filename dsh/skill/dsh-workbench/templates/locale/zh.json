@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "我的工作台",
+    "description": "一个 DSH 主面板工作台：工具箱、AI 对话、快速打开与待办。当前为占位骨架，只有分区切换可用。",
+    "detail": "docs/DETAIL.md"
+  }
+}
